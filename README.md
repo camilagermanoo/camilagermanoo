@@ -1,6 +1,7 @@
 ## Camila Germano
 
 - 🎓 conta universitária para projetos
+- 📖 estudante de análise e desenvolvimento de sistemas (4/5)
 
 <div>
     <a href="https://github.com/rafaballerini">
