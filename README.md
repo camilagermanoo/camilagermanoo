@@ -1,4 +1,11 @@
-## Camila Germano
+<samp>
+      <br>
+      Hey there! I'm <b>Camila Germano</b>
+  </samp>
+
+  <div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development!" alt="Typing SVG"/>
+</div
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilagermanoo/camilagermanoo/output/github-contribution-grid-snake-dark.svg">
