@@ -15,6 +15,12 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/camilagermanoo/camilagermanoo/output/github-contribution-grid-snake.svg">
 </picture>
 
+##
+![Camila's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilagermanoo&theme=jolly&layout=compact)
+
+![Camila's github stats](https://github-readme-stats.vercel.app/api?username=camilagermanoo&show_icons=true&theme=jolly) 
+##
+
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
