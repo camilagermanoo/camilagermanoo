@@ -1,6 +1,6 @@
 <samp>
       <br>
-      Hey there! I'm <b>Camila Germano</b>
+      Hey there! I'm <b>Camila Rodrigues</b>
       <br>
       <a href="https://camilagermanoo.github.io/">🌐 Visit my Portfolio</a>
   </samp>
