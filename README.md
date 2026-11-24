@@ -6,7 +6,7 @@
   </samp>
 
   <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;Web+Developer+%7C+React+%26+TypeScript;Graduated+in+Systems+Analysis+and+Development!" alt="Typing SVG"/>
 </div>
 
 <picture align="center">
